@@ -21,7 +21,7 @@ Getting Started
 To get a local copy up and running, follow these simple steps:
 
 Clone the repository
-  git clone https://github.com/your-username/property-finder.git
+  git clone (https://github.com/farihasamee06/property_finder)
   Open in Android Studio
   Navigate to File -> Open and select the cloned directory.
   Build the Project
