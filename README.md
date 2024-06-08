@@ -42,5 +42,5 @@ Open a Pull Request
 Contact
 Your Name - farihasamee06@gmail.com
 
-Project Link: https://github.com/your-username/property-finder
+Project Link: (https://github.com/farihasamee06/property_finder)
 
